@@ -1,4 +1,4 @@
-<h2>Consulta CEP App</h2>
+<h3>Consulta CEP App</h3>
 <p>App para consulta cep utilizando a api do viacep</p>
 
 <h3>Funcionamento da aplicação</h3>
